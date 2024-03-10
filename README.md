@@ -1,8 +1,15 @@
 # SNAG
 ![](https://img.shields.io/badge/version-1.0.1-blue)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zjukg/SNAG/blob/main/LICENSE)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-Code and Data for paper: `The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework`
+
+>In this work, we introduce a **Unified Multi-Modal Knowledge Graph (MMKG) Representation Framework** that incorporates tailored training objectives for Multi-modal Knowledge Graph Completion (MKGC) and Multi-modal Entity Alignment (MMEA). Our approach achieves SOTA performance across a comprehensive suite of ten datasets, including three for MKGC and seven for MMEA, demonstrating the framework's effectiveness and versatility in diverse multi-modal contexts.
+
+<!--Code and Data for paper: `The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework`-->
+
+## 🔔 News
+- **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 
 
 ## 🔬 Dependencies
@@ -86,4 +93,12 @@ POOL=1
 ❗MMEA: From [UMAEA Repo](https://github.com/zjukg/UMAEA) 
 
 ❗MKGC: Download from [Here](https://ufile.io/3te19dx0)
+
+## 🤝 Cite:
+Please condiser citing this paper if you use the ```code``` or ```data``` from our work.
+Thanks a lot :)
+
+```bigquery
+
+```
 
