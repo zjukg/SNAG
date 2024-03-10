@@ -1,23 +1,6 @@
-# SNAG
-![](https://img.shields.io/badge/version-1.0.1-blue)
-[![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
-Code and Data for paper: `The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework`
-
-
-## 🔬 Dependencies
-```bash
-pip install -r requirement.txt
-```
-#### Details
-- Python (>= 3.7)
-- [PyTorch](http://pytorch.org/) (>= 1.6.0)
-- numpy (>= 1.19.2)
-- [Transformers](http://huggingface.co/transformers/) (>= 4.21.3)
-- easydict (>= 1.10)
-- unidecode (>= 1.3.6)
-- tensorboard (>= 2.11.0)
-
+## 📚 Dataset and Code
+❗Download from [Here](https://ufile.io/3te19dx0)
 
 ## 🚀 MKGC Train
 - **Quick start**: Using  script file (`run.sh`)
@@ -28,7 +11,7 @@ pip install -r requirement.txt
 - **Optional**: Using the `bash command`:
 ```bash
 # Command Details:
-#  GPU | DATA | num_proj | use_intermediate | joint_way | noise ratio | mask ratio | noise-level | num_hidden_layers | num_attention_heads | Exp ID
+#  GPU | DATA | num_proj | use_intermediate | joint_way | noise ratio (0~1) | mask ratio (0~1) | noise-level (Epoch/Step) | num_hidden_layers | num_attention_heads | Exp ID
 
 # # DATA=DB15K / MKG-W / MKG-Y
 # num_proj: 1 / 2
@@ -63,27 +46,3 @@ EPOCH=8000
 NOISE=1
 POOL=1
 ```
-
-## 🚀 MMEA Train
-- **Quick start**: Using  script file (`run.sh`)
-```bash
->> cd SNAG_MMEA
->> bash run.sh 0
-```
-- **Optional**: Using the `bash command`
-```bash
-# Command Details:
-# bash file | GPU | Dataset | data split | R_{sa} | random seed | use_surface | R_{img} | noise ratio | mask ratio |
-# Begin:
->> bash run_snag.sh 0 DBP15K ja_en 0.3 3408 0 1.0 0.2 0.7
->> bash run_snag.sh 0 DBP15K ja_en 0.3 3408 0 0.6 0.2 0.7
->> bash run_snag.sh 0 DBP15K ja_en 0.3 3408 0 0.4 0.2 0.7
-```
-
-❗Tips: you can open the `run_XXX.sh` file for parameter or training target modification.
-
-## 📚 Dataset
-❗MMEA: From [UMAEA Repo](https://github.com/zjukg/UMAEA) 
-
-❗MKGC: Download from [Here](https://ufile.io/3te19dx0)
-
