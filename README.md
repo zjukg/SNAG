@@ -6,6 +6,12 @@
 
 >In this work, we introduce a **Unified Multi-Modal Knowledge Graph (MMKG) Representation Framework** that incorporates tailored training objectives for Multi-modal Knowledge Graph Completion (MKGC) and Multi-modal Entity Alignment (MMEA). Our approach achieves SOTA performance across a comprehensive suite of ten datasets, including three for MKGC and seven for MMEA, demonstrating the framework's effectiveness and versatility in diverse multi-modal contexts.
 
+<div align="center">
+    <img src="https://github.com/zjukg/SNAG/blob/main/Image/model.jpg" width="80%" height="auto" />
+</div>
+
+
+
 <!--Code and Data for paper: `The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework`-->
 
 ## 🔔 News
