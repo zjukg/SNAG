@@ -1,6 +1,7 @@
 # SNAG
 ![](https://img.shields.io/badge/version-1.0.1-blue)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/zjukg/SNAG/blob/main/LICENSE)
+[![arxiv badge](https://img.shields.io/badge/arxiv-2403.06832-red)](https://arxiv.org/abs/2403.06832)
 [![Pytorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 
 
