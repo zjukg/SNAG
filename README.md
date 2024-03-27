@@ -106,13 +106,11 @@ Please condiser citing this paper if you use the ```code``` or ```data``` from o
 Thanks a lot :)
 
 ```bigquery
-@misc{chen2024power,
-      title={The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework}, 
-      author={Zhuo Chen and Yin Fang and Yichi Zhang and Lingbing Guo and Jiaoyan Chen and Huajun Chen and Wen Zhang},
-      year={2024},
-      eprint={2403.06832},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{chen2024power,
+  title={The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework},
+  author={Chen, Zhuo and Fang, Yin and Zhang, Yichi and Guo, Lingbing and Chen, Jiaoyan and Chen, Huajun and Zhang, Wen},
+  journal={arXiv preprint arXiv:2403.06832},
+  year={2024}
 }
 ```
 
