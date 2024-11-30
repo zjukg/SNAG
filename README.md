@@ -16,7 +16,7 @@
 <!--Code and Data for paper: `The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework`-->
 
 ## 🔔 News
-- **`2024-11` SNAG is accepted by COLING 2024 !
+- **`2024-11` SNAG is accepted by COLING 2024 !**
 - **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 
 
