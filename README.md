@@ -100,7 +100,7 @@ POOL=1
 ## 📚 Dataset
 ❗MMEA: From [UMAEA Repo](https://github.com/zjukg/UMAEA) 
 
-❗MKGC: Download from [Here](https://ufile.io/3te19dx0)
+❗MKGC: Download from [Google Driven](https://drive.google.com/file/d/1jIYo7JWXNNi7LZqBIsl103FL8tHcoW-q/view?usp=sharing) or [Ufile](https://ufile.io/3te19dx0) 
 
 ## 🤝 Cite:
 Please condiser citing this paper if you use the ```code``` or ```data``` from our work.
